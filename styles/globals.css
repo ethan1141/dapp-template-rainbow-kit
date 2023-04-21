@@ -1,0 +1,33 @@
+html,
+body,
+.modal-content {
+  background-color: #333333 !important;
+}
+main p,
+.navbar-nav a,
+.navbar-brand,
+div.h4,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.form-label {
+  color: #fafafa !important;
+}
+.profile {
+  border-radius: 50%;
+  height: 128pt;
+}
+nav {
+  background-color: #ff5722;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
