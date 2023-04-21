@@ -6,7 +6,7 @@ export const metadata = {
 };
 export const links: ILink[] = [
   { name: "Dashboard" },
-  { name: "Jobs" },
-  { name: "Freelancers" },
-  { name: "Account" },
+  { name: "Nav 1" },
+  { name: "Nav2" },
+  { name: "Nav 3" },
 ];
